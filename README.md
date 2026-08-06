@@ -1,3 +1,9 @@
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=4000&pause=1000&color=FFFFFF&width=650&lines=Hi%2C+I'm+Daniel;Third-year+IT+undergrad+from+Chennai%2C+India;Interested+in+tech%2C+art+%26+literature" />
+</p>
+
+
+
 # 💫 About Me:
 - 🔭 I'm currently working on AI/ML projects and full-stack apps<br>- 👯 I'm looking to collaborate on open source ML or web dev projects<br>- 💛 I'm looking for help with LLM research and model fine-tuning<br>- 🌱 I'm currently learning Deep Learning, LLMs and Flutter<br>- 💬 Ask me about Python, Machine Learning, or hackathon projects<br>- ⚡ Fun fact: I won 2nd place at Google Techsprint '25 with a Flutter app!
 
