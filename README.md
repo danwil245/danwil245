@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Hi+there%2C+I%27m+Daniel+%F0%9F%91%8B;Third-year+IT+undergrad+from+Chennai%2C+India+%F0%9F%87%AE%F0%9F%87%B3;Passionate+about+tech%2C+art+%26+literature+%F0%9F%8E%A8;Always+building%2C+always+learning+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Hi+there%2C+I%27m+Daniel+%F0%9F%91%8B;Third-year+IT+undergrad+from+Chennai%2C+India+%F0%9F%87%AE%F0%9F%87%B3;Passionate+about+tech%2C+art+%26+literature+%F0%9F%8E%A8;Always+building%2C+always+learning+%F0%9F%9A%80" />
 </p>
 
 # 💫 About Me:
