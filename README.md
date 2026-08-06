@@ -1,71 +1,80 @@
-<div align="center">
+<h1 align="center">Hey, I'm Daniel! 👋</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=DANIEL&fontSize=60&fontColor=E94560&fontAlignY=38&desc=IT%20Undergrad%20%7C%20Builder%20%7C%20Chennai%2C%20India&descAlignY=58&descSize=18&descColor=EEEEEE&animation=fadeIn" width="100%"/>
+<h3 align="center">3rd Year IT Student @ Your College Name</h3>
 
-<br/>
+<hr/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=26&duration=3500&pause=1000&color=E94560&center=true&vCenter=true&width=750&lines=Hi+there%2C+I%27m+Daniel+%F0%9F%91%8B;Third-year+IT+undergrad+from+Chennai%2C+India;Passionate+about+tech%2C+art+%26+literature;Always+building%2C+always+learning" />
-
-</div>
-
-## ⟡ About Me
-
-- 🔭 Currently working on **AI/ML projects** and **full-stack apps**
-- 👯 Looking to collaborate on **open source ML** or **web dev** projects
-- 💛 Looking for help with **LLM research** and **model fine-tuning**
-- 🌱 Currently learning **Deep Learning, LLMs & Flutter**
-- 💬 Ask me about **Python, Machine Learning, or hackathon projects**
-- ⚡ Fun fact: I won **2nd place at Google Techsprint '25** with a Flutter app!
+<p align="center">
+I build stuff, mess around with code, and try to make things look good.<br/>
+Currently exploring ML and working on <a href="#">GigFlow</a> — a finance tracker for gig workers.
+</p>
 
 <br/>
 
-## ⟡ Tech Stack
+## 🔗 Connect
 
-<div align="center">
-
-![C](https://img.shields.io/badge/c-1a1a2e?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-1a1a2e?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-1a1a2e?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/python-1a1a2e?style=flat-square&logo=python&logoColor=ffdd54)
-![Vercel](https://img.shields.io/badge/vercel-1a1a2e?style=flat-square&logo=vercel&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/google_cloud-1a1a2e?style=flat-square&logo=google-cloud&logoColor=4285F4)
-![MySQL](https://img.shields.io/badge/mysql-1a1a2e?style=flat-square&logo=mysql&logoColor=4479A1)
-![Supabase](https://img.shields.io/badge/supabase-1a1a2e?style=flat-square&logo=supabase&logoColor=3ECF8E)
-![MongoDB](https://img.shields.io/badge/mongodb-1a1a2e?style=flat-square&logo=mongodb&logoColor=4EA94B)
-![React](https://img.shields.io/badge/react-1a1a2e?style=flat-square&logo=react&logoColor=61DAFB)
-![NumPy](https://img.shields.io/badge/numpy-1a1a2e?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/matplotlib-1a1a2e?style=flat-square&logo=Matplotlib&logoColor=white)
-![Keras](https://img.shields.io/badge/keras-1a1a2e?style=flat-square&logo=Keras&logoColor=D00000)
-![Pandas](https://img.shields.io/badge/pandas-1a1a2e?style=flat-square&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-1a1a2e?style=flat-square&logo=scikit-learn&logoColor=F7931E)
-![TensorFlow](https://img.shields.io/badge/tensorflow-1a1a2e?style=flat-square&logo=TensorFlow&logoColor=FF6F00)
-![SciPy](https://img.shields.io/badge/scipy-1a1a2e?style=flat-square&logo=scipy&logoColor=white)
-
-</div>
+<p align="center">
+<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/YOUR-LEETCODE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-E94560?style=for-the-badge&logo=maildotru&logoColor=white"/></a>
+<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
 
 <br/>
 
-## ⟡ GitHub Stats
+## 💻 Tech Stack
 
-<div align="center">
+**Languages**
 
-<img src="https://github-readme-stats.vercel.app/api?username=danwil245&theme=city_dark&hide_border=true&bg_color=1a1a2e&title_color=E94560&icon_color=E94560&text_color=EEEEEE&include_all_commits=false&count_private=false" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=danwil245&theme=highcontrast&hide_border=true&background=1A1A2E&stroke=E94560&ring=E94560&fire=E94560&currStreakLabel=E94560" width="49%"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend & Cloud**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+**Database**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**AI/ML & Tools**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danwil245&theme=city_dark&hide_border=true&bg_color=1a1a2e&title_color=E94560&text_color=EEEEEE&include_all_commits=false&count_private=false&layout=compact" width="49%"/>
+## 📊 GitHub Stats
 
-</div>
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats.svg?username=danwil245&theme=discord" />
+</p>
 
-<br/>
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=danwil245&theme=discord&hide_border=true" />
+</p>
 
-<div align="center">
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/grid.svg?username=danwil245&theme=discord" />
+</p>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=danwil245&icon=0&color=E94560&style=flat-square)](https://visitcount.itsvg.in)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer"/>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-</div>
+<p align="center">
+<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=danwil245&icon=0&color=5" /></a>
+</p>
