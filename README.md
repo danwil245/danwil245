@@ -49,12 +49,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=danwil245&theme=city_dark&hide_border=true&bg_color=1a1a2e&title_color=E94560&icon_color=E94560&text_color=EEEEEE&include_all_commits=false&count_private=false" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=danwil245&theme=city_dark&hide_border=true&bg_color=1a1a2e&title_color=E94560&icon_color=E94560&text_color=EEEEEE&include_all_commits=false&count_private=false" width="49%"/>
 <img src="https://streak-stats.demolab.com/?user=danwil245&theme=highcontrast&hide_border=true&background=1A1A2E&stroke=E94560&ring=E94560&fire=E94560&currStreakLabel=E94560" width="49%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=danwil245&theme=city_dark&hide_border=true&bg_color=1a1a2e&title_color=E94560&text_color=EEEEEE&include_all_commits=false&count_private=false&layout=compact" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danwil245&theme=city_dark&hide_border=true&bg_color=1a1a2e&title_color=E94560&text_color=EEEEEE&include_all_commits=false&count_private=false&layout=compact" width="49%"/>
 
 </div>
 
