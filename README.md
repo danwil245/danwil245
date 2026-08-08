@@ -70,11 +70,20 @@ fun_fact:    🏆 2nd place — Google Techsprint '25 (Flutter app)
 ### 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/danwil245/REPO-NAME-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danwil245&repo=REPO-NAME-1&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/danwil245/diabetes-mlops-capstone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danwil245&repo=diabetes-mlops-capstone&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/danwil245/REPO-NAME-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danwil245&repo=REPO-NAME-2&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/danwil245/Namma-ration-flutter-final">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danwil245&repo=Namma-ration-flutter-final&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/danwil245/blink-detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danwil245&repo=blink-detection&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/danwil245/jharkhand-vr-tour-final-25">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danwil245&repo=jharkhand-vr-tour-final-25&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
@@ -83,7 +92,7 @@ fun_fact:    🏆 2nd place — Google Techsprint '25 (Flutter app)
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=danwil245&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=danwil245&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danwil245&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
